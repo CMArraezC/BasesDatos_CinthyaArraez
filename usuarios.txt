@@ -1,0 +1,11 @@
+VERSIÓN PHP
+para entrar se ingresa con correo electronico y contraseña
+
+|NOMBRE         |FECHA NACIMIENTO|CORREO	      |CONTRASEÑA
+
+|Cinthya ARRAEZ |1988/04/12      |cmarraezc@gmail.com |123456
+
+|Daniel Arraz   |1986/01/25      |daniel@gmail.com    |123456
+
+|Ninfa de Arraez|1950/01/16      |ninarcan@gmail.com  |123456
+
